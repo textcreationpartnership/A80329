@@ -1,0 +1,451 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession of faith, of those churches which are commonly (though falsly) called Anabaptists; presented to the view of all that feare God, to examine by the touchstone of the Word of Truth: as likewise for the taking off those aspersions which are frequently both in pulpit and print, (although unjustly) cast upon them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80329</idno>
+            <idno type="STC">Wing C5789</idno>
+            <idno type="STC">Thomason E12_24</idno>
+            <idno type="STC">ESTC R5039</idno>
+            <idno type="EEBO-CITATION">99872776</idno>
+            <idno type="PROQUEST">99872776</idno>
+            <idno type="VID">154805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80329)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154805)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E12[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession of faith, of those churches which are commonly (though falsly) called Anabaptists; presented to the view of all that feare God, to examine by the touchstone of the Word of Truth: as likewise for the taking off those aspersions which are frequently both in pulpit and print, (although unjustly) cast upon them.</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare of our Lord, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Annotation on Thomason copy: "Octob: 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anabaptists --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154805:1" rendition="simple:additions"/>
+            <p>THE CONFESSION OF FAITH, Of thoſe CHURCHES which are commonly (though falſly) cal<g ref="char:EOLhyphen"/>led ANABAPTISTS; Preſented to the view of all that feare GOD, to examine by the touchſtone of the Word of Truth: As likewiſe for the taking off thoſe aſperſions which are frequently both in Pulpit and Print, (although unjuſtly) caſt upon them.</p>
+            <q>
+               <bibl>ACTS 4. 20.</bibl>
+               <p>
+                  <hi>Wee cannot but ſpeake the things which wee have ſeene and heard.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>ISAI. 8. 20.</bibl>
+               <p>
+                  <hi>To the Law and to the teſtimony, if they ſpeake not according to this Rule, it is becauſe there is no light in them.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>2 COR. 1. 9, 10.</bibl>
+               <p>
+                  <hi>But wee had the ſentence of death in our ſelves, that wee ſhould not truſt in our ſelves, but in the living God, which raiſeth the dead; who delivered us from ſo great a death, and doth deliver, in whom wee truſt that he will yet deliver.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the yeare of our Lord, 1644.</p>
+            <pb facs="tcp:154805:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:154805:2"/>
+            <head>
+               <hi>TO ALL THAT DESIRE The lifting up of the Name of the LORD JESUS in ſinceritie, the poore deſpi<g ref="char:EOLhyphen"/>ſed Churches of God in</hi> London <hi>ſend greeting, with prayers for their farther increaſe in the knowledge of CHRIST JESUS.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>EE queſtion not but that it will ſeeme ſtrange to many men, that ſuch as wee are frequently termed to be, lying under that calumny and black brand of Heretickes, and ſowers of di<g ref="char:EOLhyphen"/>viſion as wee doe, ſhould preſume to appeare ſo publickly as now wee have done: But yet notwithſtanding wee may well ſay, to give anſwer to ſuch, what <hi>David</hi> ſaid to his brother, when the <hi>Lords</hi> battell was a fighting, 1 <hi>Sam.</hi> 29. 30. <hi>Is there not a cauſe?</hi> Surely, if ever people had cauſe to ſpeake for the vindication of the truth of <hi>Chriſt</hi> in their hands, wee have, that being indeed the maine wheele at this time that ſets us aworke; for had any thing by men been tranſacted againſt our perſons onely, wee could quietly have ſitten ſtill, and committed our Cauſe to him who is a righteous Judge, who will in the great day judge the ſecrets of all mens hearts by Jeſus Chriſt: But being it is not onely us, but the Truth pro<g ref="char:EOLhyphen"/>feſſed by us, wee cannot, wee dare not but ſpeake; it is no ſtrange thing to any obſerving man, what ſad changes are laid, not onely by the world, that know not God, but alſo by thoſe that thinke themſelves much wronged, if they be not looked upon as the chiefe Worthies of the Church of God, and Watchmen of the Citie: But it hath fared with us from them, as from the poore Spouſe ſeeking her Beloved, <hi>Cant.</hi> 5. 6, 7. They finding us out of that common road-way themſelves walke, have ſmote us and taken away our vaile, that ſo wee may by them be recommended odious in the eyes of all that behold us, and in the hearts of all that thinke upon us, which they have done both in Pulpit and Print, charging us with holding Free-will, Falling away from grace, denying Origi<g ref="char:EOLhyphen"/>nall ſinne, diſclaiming of Magiſtracy, denying to aſſiſt them either in perſons
+<pb facs="tcp:154805:3"/> or purſe in any of their lawfull Commands, doing acts unſeemly in the diſpen<g ref="char:EOLhyphen"/>ſing the Ordinance of Baptiſme, not to be named amongst Chriſtians: All which Charges wee diſclaime as notoriouſly untrue, though by reaſon of theſe calumnies caſt upon us, many that feare God are diſcouraged and foreſtalled in harbouring a good thought, either of us or what wee profeſſe; and many that know not God incouraged, if they can finde the place of our meeting, to get together in Cluſters to ſtone us, as looking upon us as a people holding ſuch things, as that wee are not worthy to live: Wee have therefore for the cleering of the truth wee profeſſe, that it may be at libertie, though wee be in bonds, briefly publiſhed a Confeſſion of our Faith, as deſiring all that feare God, ſeri<g ref="char:EOLhyphen"/>ouſly to conſider whether (if they compare what wee here ſay and confeſſe in the preſence of the Lord Jeſus and his Saints) men have not with their tongues in Pulpit, and pens in Print, both ſpoken and written things that are contrary to truth; but wee know our God in his owne time will cleere our Cauſe, and lift up his Sonne to make him the chiefe corner-ſtone, though he has been (or now ſhould be) rejected of Maſter Builders. And becauſe it may be conceived, that what is here publiſhed, may be but the Judgement of ſome one particular Con<g ref="char:EOLhyphen"/>gregation, more refined then the reſt; Wee doe therefore here ſubſcribe it, ſome of each body in the name, and by the appointment of ſeven Congregations, who though wee be diſtinct in reſpect of our particular bodies, for conveniency ſake, being as many as can well meete together in one place, yet are all one in Communion, holding Jeſus Chriſt to be our head and Lord; under whoſe go<g ref="char:EOLhyphen"/>vernment wee deſire alone to walke, in following the Lambe whereſoever he goeth; and wee beleeve the Lord will daily cauſe truth more to appeare in the hearts of his Saints, and make them aſhamed of their folly in the Land of their Nativitie, that ſo they may with one ſhoulder, more ſtudie to lift up the Name of the Lord Jeſus, and ſtand for his appointments and Lawes; which is the deſires and prayers of the contemned Churches of Chriſt in <hi>London</hi> for all Saints.</p>
+            <closer>
+               <signed>
+                  <hi>Subſcribed in the Names of ſeven Churches in</hi> London.
+<list>
+                     <item>.
+<list>
+                           <item>William Kiffen.</item>
+                           <item>Thomas Patience.</item>
+                        </list>
+                     </item>
+                     <item>.
+<list>
+                           <item>John Spilsbery.</item>
+                           <item>George Tipping.</item>
+                           <item>Samuel Richardſon.</item>
+                        </list>
+                     </item>
+                     <item>.
+<list>
+                           <item>Thomas Skippard.</item>
+                           <item>Thomas Munday.</item>
+                        </list>
+                     </item>
+                     <item>.
+<list>
+                           <item>Thomas Gunne.</item>
+                           <item>John Mabbatt.</item>
+                        </list>
+                     </item>
+                     <item>.
+<list>
+                           <item>John Webb.</item>
+                           <item>Thomas Killcop.</item>
+                        </list>
+                     </item>
+                     <item>.
+<list>
+                           <item>Paul Hobſon.</item>
+                           <item>Thomas Goare.</item>
+                        </list>
+                     </item>
+                     <item>.
+<list>
+                           <item>Joſeph Phelpes.</item>
+                           <item>Edward Heath.</item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="confession_of_faith">
+            <pb facs="tcp:154805:3"/>
+            <head>THE CONFESSION Of FAITH, of thoſe Churches which are commonly (though falſly) called ANABAPTISTS.</head>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat GOD as he is in himſelfe, cannot be comprehended of any but himſelfe, <note n="a" place="margin">1 Tim. 6. 16.</note> dwelling in that inacceſſible light, that no eye can attaine unto, whom never man ſaw, nor can ſee; that there is but <note n="b" place="margin">1 Tim. 2. 5. Eph. 4. 4, 5, 6. 1 Cor. 12. 4, 5, 6, 13. Iohn 14. chap.</note> one God, one Chriſt, one Spirit, one Faith, one Baptiſme; <note n="c" place="margin">1 Tim. 6. 3. 13, 14. Gal. 1. 8, 9. 2 Tim. 3. 15.</note> one Rule of holineſſe and obedience for all Saints, at all times, in all places to be obſerved.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>That God is <note n="a" place="margin">Eſa 44. 67. &amp; 43. 11. &amp; 46. 9.</note> of himſelfe, that is, neither from ano<g ref="char:EOLhyphen"/>ther, nor of another, nor by another, nor for another; <note n="b" place="margin">Iohn 4. 24.</note> But is a Spirit, who as his being is of himſelfe, ſo he gives <note n="c" place="margin">Exod. 3. 14.</note> being, moving, and preſervation to all other things, being in himſelfe eternall, moſt holy, every way infinite in <note n="d" place="margin">Rom. 11. 36. Act. 17. 28.</note> greatneſſe, wiſdome, power, juſtice, goodneſſe, truth, &amp;c. In this God-head, there is the Father, the Sonne, and the Spirit; being every one of them one and the ſame God; and therefore not divided, but diſtingui<g ref="char:EOLhyphen"/>ſhed one from another by their ſeverall properties; the <note n="e" place="margin">1 Cor. 8. 6.</note> Father being from himſelfe, the <note n="f" place="margin">Pro. 8. 22, 23. Heb. 1. 3. Iohn 1. 18.</note> Sonne of the Father from everlaſting, the holy <note n="g" place="margin">Ioh. 15. 26. Gal. 4. 6.</note> Spirit proceeding from the Father and the Sonne.</p>
+            </div>
+            <div n="3" type="article">
+               <pb facs="tcp:154805:4"/>
+               <head>III.</head>
+               <p>That God hath <note n="a" place="margin">Eſa. 45. 10. Rom. 11. 34, 35, 36. Mat. 10 29, 30</note> decreed in himſelfe from everlaſting touching all things, effectually to work and diſpoſe them <note n="b" place="margin">Eph. 1. 11.</note> according to the counſell of his owne will, to the glory of his Name; in which decree appeareth his wiſdome, con<g ref="char:EOLhyphen"/>ſtancy, truth, and faithfulneſſe; <note n="c" place="margin">Col. 2. 3.</note> Wiſdome is that where<g ref="char:EOLhyphen"/>by he contrives all things; <note n="d" place="margin">Num. 23. 19, 20.</note> Conſtancy is that whereby the decree of God remaines alwayes immutable; <note n="e" place="margin">Jere. 10. 10. Rom. 3. 4.</note> Truth is that whereby he declares that alone which he hath de<g ref="char:EOLhyphen"/>creed, and though his ſayings may ſeeme to ſound ſome<g ref="char:EOLhyphen"/>times another thing, yet the ſenſe of them doth alwayes agree with the decree; <note n="f" place="margin">Eſa. 44. 10.</note> Faithfulneſſe is that whereby he effects that he hath decreed, as he hath decreed. And touching his creature man, <note n="g" place="margin">Eph. 1. 3, 4, 5, 6, 7. 2 Tim. 1. 9. Acts 13. 48. Rom. 8. 29, 30</note> God had in Chriſt before the foundation of the world, according to the good plea<g ref="char:EOLhyphen"/>ſure of his will, foreordained ſome men to eternall life through Jeſus Chriſt, to the praiſe and glory of his grace, <note n="h" place="margin">Jude ver. 4. &amp; 6. Rom. 9. 11, 12, 13. Prov. 16. 4.</note> leaving the reſt in their ſinne to their juſt con<g ref="char:EOLhyphen"/>demnation, to the praiſe of his Juſtice.</p>
+            </div>
+            <div n="4" type="article">
+               <head>IV.</head>
+               <p>
+                  <note n="a" place="margin">Gen. 1. chap. Col. 1. 16. Heb. 11. 3. Eſa. 45. 12.</note> In the beginning God made all things very good, created man after his own <note n="b" place="margin">Gen. 1. 26. 1 Cor. 15. 45, 46. Eccleſ. 7. 31.</note> Image and likeneſſe, filling him with all perfection of all naturall excellency and up<g ref="char:EOLhyphen"/>rightneſſe, free from all ſinne. <note n="c" place="margin">Pſal. 49. 20.</note> But long he abode not in this honour, but by the <note n="d" place="margin">Gen. 3. 1 4, 5 2 Cor. 11. 3.</note> ſubtiltie of the Serpent, which Satan uſed as his inſtrument, himſelfe with his Angels having ſinned before, and not <note n="e" place="margin">2 Pet. 2. 4. Jude ver. 6. Ioh. 8. 44.</note> kept their firſt eſtate, but left their owne habitation; firſt <note n="f" place="margin">Gen. 3. 1, 2, 6 1 Tim. 2. 14. Eccleſ. 7. 31. Gal. 3. 22.</note> 
+                  <hi>Eve,</hi> then <hi>Adam</hi> being ſeduced did wittingly and willingly fall into diſobedience and tranſgreſſion of the Commandement of their great Creator, for the which death came upon all, and reigned over all, ſo that all ſince the Fall are conceived in ſinne, and brought forth in iniquitie, and ſo by nature children of wrath, and ſervants of ſinne, ſubjects of <note n="g" place="margin">Rom. 5. 12. 18, 19. &amp; 6. 23. Eph. 2. 3. Rom. 5. 12.</note> death, and all
+<pb facs="tcp:154805:4"/> other calamities due to ſinne in this world and for ever, being conſidered in the ſtate of nature, without relation to Chriſt.</p>
+            </div>
+            <div n="5" type="article">
+               <head>V.</head>
+               <p>All mankind being thus fallen, and become altogether dead in ſinnes and treſpaſſes, and ſubject to the eternall wrath of the great God by tranſgreſſion; yet the elect, which God hath <note n="a" place="margin">Jer. 31. 2.</note> loved with an everlaſting love, are <note n="b" place="margin">Gen. 3. 15. Eph. 1. 3, 7. &amp; 2, 4, 9. 1 Theſſ. 5. 9. Acts 13. 38.</note> re<g ref="char:EOLhyphen"/>deemed, quickned, and ſaved, not by themſelves, neither by their own workes, leſt any man ſhould boaſt himſelfe, but wholly and onely by God of <note n="c" place="margin">1 Cor. 1. 30. 31. 2 Cor. 5. 21. Jer. 9. 23, 24.</note> his free grace and mer<g ref="char:EOLhyphen"/>cie through Jeſus Chriſt, who of God is made unto us wiſdome, righteouſneſſe, ſanctification and redempti<g ref="char:EOLhyphen"/>on, that as it is written, Hee that rejoyceth, let him re<g ref="char:EOLhyphen"/>joyce in the Lord.</p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>
+                  <note n="a" place="margin">Joh. 17. 3. Heb. 5. 9. Jer. 23. 5, 6.</note> This therefore is life eternall, to know the onely true God, and whom he hath ſent Jeſus Chriſt. <note n="b" place="margin">2 Theſſ. 1. 8. Joh. 3. 36.</note> And on the contrary, the Lord will render vengeance in flaming fire to them that know not God, and obey not the Goſpel of our Lord Ieſus Chriſt.</p>
+            </div>
+            <div n="7" type="article">
+               <head>VII.</head>
+               <p>The Rule of this Knowledge, Faith, and Obedience, <note place="margin">Joh. 5. 39. 2 Tim. 3. 15. 16, 17. Col. 21. 18, 23 Matth. 15. 9.</note> concerning the worſhip and ſervice of God, and all other Chriſtian duties, is not mans inventions, opinions, devi<g ref="char:EOLhyphen"/>ces, lawes, conſtitutions, or traditions unwritten whatſo<g ref="char:EOLhyphen"/>ever, but onely the word of God contained in the Cano<g ref="char:EOLhyphen"/>nicall Scriptures.</p>
+            </div>
+            <div n="8" type="article">
+               <head>VIII.</head>
+               <p>In this written Word God hath plainly revealed <note place="margin">Acts 3. 22, 23. Heb. 1. 1, 2. 2 Tim. 3. 15, 16, 17. 2 Cor. 1, 20.</note> whatſoever he hath thought needfull for us to know, be<g ref="char:EOLhyphen"/>leeve, and acknowledge, touching the Nature and Office of Chriſt, in whom all the promiſes are Yea and Amen to the praiſe of God.</p>
+            </div>
+            <div n="9" type="article">
+               <pb facs="tcp:154805:5"/>
+               <head>IX.</head>
+               <p>Touching the Lord Jeſus, of whom <note n="a" place="margin">Gen. 3. 15. &amp; 22. 18. &amp; 49. 10. Dan. 7. 13. &amp; 9. 24, 25, 26.</note> 
+                  <hi>Moſes</hi> and the Prophets wrote, and whom the Apoſtles preached, is the <note n="b" place="margin">Prov. 8. 23. Joh.. 1. 1, 2, 3, Col. 1: 1. 15, 16, 17.</note> Sonne of God the Father, the brightneſſe of his glory, the ingraven forme of his being, God with him and with his holy Spirit, by whom he made the world, by whom he upholds and governes all the workes hee hath made, who alſo <note n="c" place="margin">Gal. 4. 4.</note> when the fulneſſe of time was come, was made man of a <note n="d" place="margin">Heb 7. 14. Rev. 5. 5. with Gen. 49. 9, 10. Rom. 1. 3. &amp; 9. 5. Mat. 1. 16. with Luke 3. 23. 26. Heb. 2. 16.</note> woman, of the Tribe of <hi rend="sup">e</hi> 
+                  <hi>Judah,</hi> of the ſeed of <hi>Abraham</hi> and <hi>David,</hi> to wit, of <hi>Mary</hi> that bleſſed Vir<g ref="char:EOLhyphen"/>gin, by the holy Spirit comming upon her, and the power of the moſt High overſhadowing her, and was alſo <note n="f" place="margin">Eſa. 53. 3, 4, 5 Phil. 2. 8.</note> in all things like unto us, ſinne onely excepted.</p>
+            </div>
+            <div n="10" type="article">
+               <head>X.</head>
+               <p>Touching his Office, <note n="a" place="margin">2 Tim. 2. 15. Heb 9. 15. Joh. 14. 6.</note> Jeſus Chriſt onely is made the Mediator of the new Covenant, even the everlaſting Co<g ref="char:EOLhyphen"/>venant of grace between God and Man, to <note n="b" place="margin">Heb. 1. 2. &amp; 3 1, 2. &amp; 7. 24. Eſa. 9. 6, 7. Acts 5. 31.</note> be perfectly and fully the Prophet, Prieſt and King of the Church of God for evermore.</p>
+            </div>
+            <div n="11" type="article">
+               <head>XI.</head>
+               <p>Unto this Office hee was fore-ordained from everla<g ref="char:EOLhyphen"/>ſting, by the <note n="a" place="margin">Prov. 8. 23. Eſa. 42. 6. &amp; 49. 1. 5.</note> authority of the Father, and in reſpect of his Manhood, from the womb called and ſeparated, and <note n="b" place="margin">Eſa. 11. 2, 3, 4, 5. &amp; 61. 1, 2, 3. with Luk. 4. 17. 22. Joh. 1. 14 16. &amp; 3. 34.</note> anointed alſo moſt fully and abundantly with all gifts neceſſary, God having without meaſure poured the Spi<g ref="char:EOLhyphen"/>rit upon him.</p>
+            </div>
+            <div n="12" type="article">
+               <head>XII.</head>
+               <p>In this Call the Scripture holds forth two ſpeciall things conſiderable; firſt, the call to the Office; ſecondly, the Office it ſelf. Firſt, that <note n="a" place="margin">Heb. 5. 4, 5, 6</note> none takes this honour but he that is called of God, as was <hi>Aaron,</hi> ſo alſo Chriſt, it being an action eſpecially of God the Father, whereby a ſpeciall covenant being made, hee ordaines his Sonne to this office: which Covenant is, that <note n="b" place="margin">Eſa. 53. 10. 11.</note> Chriſt ſhould be
+<pb facs="tcp:154805:5"/> made a Sacrifice for ſinne, that hee ſhall ſee his ſeed, and prolong his dayes, and the pleaſure of the Lord ſhall proſper in his hand; which calling therefore contains in it ſelfe <note n="c" place="margin">Eſa. 42. 1.</note> chuſing, <note n="d" place="margin">1 Pet. 1. 20.</note> fore-ordaining, <note n="e" place="margin">Joh. 3. 17. &amp; 9. 27. &amp; 10. 36 Eſa. 61. 1.</note> ſending. Chuſing re<g ref="char:EOLhyphen"/>ſpects the end, fore-ordaining the means, ſending the ex<g ref="char:EOLhyphen"/>ecution it ſelf, <note n="f" place="margin">Joh. 3. 16. Rom. 8. 32.</note> all of meere grace, without any condition fore-ſeen, either in men, or in Chriſt himſelfe.</p>
+            </div>
+            <div n="13" type="article">
+               <head>XIII.</head>
+               <p>So that this Office to be Mediator, that is, to be Pro<g ref="char:EOLhyphen"/>phet, <note place="margin">1 Tim. 2. 5. Heb. 7. 24. Dan. 7. 14. Act. 4. 12. Luke 1. 33. Ioh. 14. 6.</note> Prieſt, and King of the Church of God, is ſo proper to Chriſt, as neither in the whole, nor in any part there<g ref="char:EOLhyphen"/>of, it can be transferred from him to any other.</p>
+            </div>
+            <div n="14" type="article">
+               <head>XIV.</head>
+               <p>This Office it ſelf to which Chriſt was called, is three<g ref="char:EOLhyphen"/>fold, of <note n="a" place="margin">Deut. 18. 15. with Acts 3. 22. 23.</note> a Prophet, of <note n="b" place="margin">Pſal. 110. 3. Heb. 3. 1. &amp; 4. 14. 15. &amp; 5. 6. &amp; 9. 21.</note> Prieſt, &amp; of <note n="c" place="margin">Pſal. 2. 6.</note> a King: this num<g ref="char:EOLhyphen"/>ber and order of Offices is ſhewed; firſt, by mens neceſſi<g ref="char:EOLhyphen"/>ties grievouſly labouring <note n="d" place="margin">Acts 26. 18. Col. 1. 3.</note> under ignorance, by reaſon whereof they ſtand in infinit neceſſity of the Prophetical office of Chriſt to relieve them. Secondly, alienation fro<g ref="char:cmbAbbrStroke">̄</g> God, wherein they ſtand in need of the Prieſtly Office to reconcile them: Thirdly, our <note place="margin">
+                     <hi>e</hi> Col. 1. 21: Eph. 2. 12.</note> utter diſability to return <note n="f" place="margin">Cant. 1. 3. Ioh. 6. 44.</note> to him, by which they ſtand in need of the power of Chriſt in his Kingly Office to aſſiſt and govern them.</p>
+            </div>
+            <div n="15" type="article">
+               <head>XV.</head>
+               <p>Touching the Propheſie of Chriſt, it is that whereby he hath <note n="a" place="margin">Ioh. 1. 18. &amp; 12. 49. 50. &amp; 15. &amp; 17. 8. Deut. 18. 15.</note> perfectly revealed the whole will of God out of the boſome of the Father, that is needfull for his ſervants
+<pb facs="tcp:154805:6"/> to know, beleeve, and obey; and therefore is called not onely a Prophet and <note n="b" place="margin">Matth. 23. 10.</note> a Doctor, and the <note n="c" place="margin">Heb. 3. 1.</note> Apoſtle of our profeſſion, and the <note n="d" place="margin">Mal. 3. 1.</note> Angel of the Covenant; but alſo the very <note n="e" place="margin">1 Cor. 1. 24.</note> wiſdome of God, and <note n="f" place="margin">Col. 2. 3.</note> the treaſures of wiſdome and underſtanding.</p>
+            </div>
+            <div n="16" type="article">
+               <head>XVI.</head>
+               <p>That he might be ſuch a Prophet as thereby to be every way compleat, it was neceſſary that he ſhould bee <note n="a" place="margin">Ioh. 1. 18. &amp; 3. 13.</note> God, and withall alſo that he ſhould be man; for unleſſe hee had been God, he could never have perfectly underſtood the will of God, <note n="b" place="margin">1 Cor. 2. 11. 16.</note> neither had he been able to reveale it throughout all ages; and unleſſe hee had been man, hee could not fitly have unfolded it in his <note n="c" place="margin">Acts 3. 22. with Deut. 18. 15. Heb. 1. 1.</note> own perſon to man.</p>
+            </div>
+            <div n="17" type="article">
+               <head>XVII.</head>
+               <p>Touching his Prieſthood, Chriſt <note n="a" place="margin">Ioh. 17. 19. Heb. 5. 7, 8, 9. &amp; 9. 26. Rom 5. 19. Epheſ. 5. 12. Col. 1. 20.</note> being conſecrated, hath appeared once to put away ſinne by the offering and ſacrifice of himſelf, and to this end hath fully performed and ſuffered all thoſe things by which God, through the blood of that his Croſſe in an acceptable ſacrifice, might reconcile his elect onely; <note n="b" place="margin">Eph. 2. 14, 15, 16. Rom. 8. 34.</note> and having broken downe the partition wall, and therwith finiſhed &amp; removed all thoſe Rites, Shadowes, and Ceremonies, is now entred within the Vaile, into the Holy of Holieſt, that is, to the very Heavens, and preſence of God, where he for ever liveth and ſitteth at the right hand of Majeſty, appearing before the face of his Father to make interceſſion for ſuch as come to the Throne of Grace by that new and living way; and not that onely, but <note n="c" place="margin">1 Pet. 2. 5. Ioh. 4. 23. 24.</note> makes his people a ſpirituall Houſe, an holy Prieſthood, to offer up ſpirituall ſacri<g ref="char:EOLhyphen"/>fice
+<pb facs="tcp:154805:6"/> acceptable to God through him; neither doth the Father accept, or Chriſt offer to the Father any other worſhip or worſhippers.</p>
+            </div>
+            <div n="18" type="article">
+               <head>XVIII.</head>
+               <p>This Prieſthood was not legall, or temporary, but ac<g ref="char:EOLhyphen"/>cording to the order <note n="a" place="margin">Heb. 7. 17.</note> of <hi>Melchiſedec;</hi> 
+                  <note n="b" place="margin">Heb. 7. 16.</note> not by a carnall commandement, but by the power of an endleſſe life; <note n="c" place="margin">Heb. 7. 18, 19, 20, 21.</note> not by an order that is weak and lame, but ſtable and per<g ref="char:EOLhyphen"/>fect; not for a <note n="d" place="margin">Heb. 7. 24, 25.</note> time, but for ever, admitting no ſucceſſor, but perpetuall and proper to Chriſt, and of him that ever liveth. Chriſt himſelfe was the Prieſt, Sacrifice and Al<g ref="char:EOLhyphen"/>tar: he was <note n="e" place="margin">Heb. 5. 6.</note> Prieſt, according to both natures, hee was a ſacrifice moſt properly according to his humane nature: <note n="f" place="margin">Heb. 10. 10. 1 Pet. 1. 18, 19. Col. 1. 20, 22. Eſa. 53. 10. Matth. 20. 28.</note> whence in the Scripture it is wont to be attributed to his body, to his blood; yet the chiefe force whereby this ſa<g ref="char:EOLhyphen"/>crifice was made effectuall, did depend upon his <note n="g" place="margin">Act. 20. 28. Rom. 8. 3.</note> divine nature, namely, that the Sonne of God did offer himſelfe for us: he was the <note n="h" place="margin">Heb. 9. 14. &amp; 13. 10, 12, 15. Matth. 23. 17. Ioh. 17. 19.</note> Altar properly according to his di<g ref="char:EOLhyphen"/>vine nature, it belonging to the Altar to ſanctifie that which is offered upon it, and ſo it ought to be of greater dignity then the Sacrifice it ſelfe.</p>
+            </div>
+            <div n="19" type="article">
+               <head>XIX.</head>
+               <p>Touching his Kingdome, <note n="a" place="margin">1 Cor. 15. 4. 1 Pet. 3. 21, 22. Matth. 28. 18, 19, 20. Luke 24. 51. Acts 1 11. &amp; 5. 30, 31. John 19. 36. Rom. 14. 17.</note> Chriſt being riſen from the dead, aſcended into heaven, ſat on the right hand of God the Father, having all power in heaven and earth, given unto him, he doth ſpiritually govern his Church, exerci<g ref="char:EOLhyphen"/>ſing his power <note n="b" place="margin">Mark 1. 27. Heb. 1. 14. John 16. 7, 15.</note> over all Angels and Men, good and bad, to the preſervation and ſalvation of the elect, to the over<g ref="char:EOLhyphen"/>ruling and deſtruction of his enemies, which are the Re<g ref="char:EOLhyphen"/>probates,
+<pb facs="tcp:154805:7"/>
+                  <note n="c" place="margin">John 5. 26, 27. Rom. 5, 6, 7, 8. &amp; 14. 17. Gal. 5. 22, 23. John 1. 4, 13.</note> communicating and applying the benefits, vertue, and fruit of his Propheſie and Prieſthood to his elect, namely, to the ſubduing and taking away of their ſinnes, to their juſtification and adoption of Sonnes, re<g ref="char:EOLhyphen"/>generation, ſanctification, preſervation and ſtrengthe<g ref="char:EOLhyphen"/>ning in all their conflicts againſt Satan, the World, the Fleſh, and the temptations of them, continually dwelling in, governing and keeping their hearts in faith and filiall feare by his Spirit, which having <note n="d" place="margin">John 13. 1. &amp; 10. 28, 29. &amp; 14. 16, 17. Rom. 11. 29. Pſal. 51. 10, 11. Job. 33. 29 30. 2 Cor. 12, 7, 8, 9.</note> given it, he never takes away from them, but by it ſtill begets and nouriſheth in them faith, repentance, love, joy, hope, and all heaven<g ref="char:EOLhyphen"/>ly light in the ſoule unto immortality, notwithſtanding through our own unbeliefe, and the temptations of Satan, the ſenſible ſight of this light and love be clouded and overwhelmed for the time. <note n="c" place="margin">Job 1. and 2. Chap. Rom. 1. 21. &amp; 2. 4, 5, 6. &amp; 9. 17, 18. Eph. 4. 17, 18. 2 Pet. 2. chap.</note> And on the contrary, ruling in the world over his enemies, Satan, and all the veſſels of wrath, limiting, uſing, reſtraining them by his mighty po<g ref="char:EOLhyphen"/>wer, as ſeems good in his divine wiſdome &amp; juſtice to the execution of his determinate counſell, delivering them up to a reprobate mind, to be kept through their own de<g ref="char:EOLhyphen"/>ſerts, in darkneſſe and ſenſuality unto judgement.</p>
+            </div>
+            <div n="20" type="article">
+               <head>XX.</head>
+               <p>This Kingdome ſhall be then fully perfected when hee <note place="margin">1 Cor. 15. 24, 28. Heb. 9. 28. 2 Theſſ. 1. 9. 10. 1 Theſſ. 4. 15, 16, 17. John 17. 21, 26.</note> ſhall the ſecond time come in glory to reigne amongſt his Saints, and to be admired of all them which doe be<g ref="char:EOLhyphen"/>leeve, when he ſhall put downe all rule and authority un<g ref="char:EOLhyphen"/>der his feet, that the glory of the Father may be full and perfectly manifeſted in his Sonne, and the glory of the Father and the Sonne in all his members.</p>
+            </div>
+            <div n="21" type="article">
+               <pb facs="tcp:154805:7"/>
+               <head>XXI.</head>
+               <p>That Chriſt Jeſus by his death did bring forth ſalva<g ref="char:EOLhyphen"/>tion and reconciliation onely for the <note n="a" place="margin">John 15. 13. Rom. 8. 32, 33; 34. Rom. 5. 11. &amp; 3. 25.</note> elect, which were thoſe which <note n="b" place="margin">Joh. 17. 2. with 6, 37.</note> God the Father gave him; &amp; that the Goſpel which is to be preached to all men as the ground of faith, is, that <note n="c" place="margin">Matth. 16. 16. Luke 2. 26. Ioh. 6. 69. &amp; 7. 3. &amp; 20. 31. I Iohn 5. 11.</note> Ieſus is the Chriſt, the Sonne of the ever-bleſſed God, filled with the perfection of all heavenly and ſpi<g ref="char:EOLhyphen"/>rituall excellencies, and that ſalvation is onely and alone to be had through the beleeving in his Name.</p>
+            </div>
+            <div n="22" type="article">
+               <head>XXII.</head>
+               <p>That Faith is the <note n="a" place="margin">Eph. 2. 8. Ioh. 6. 29. &amp; 4. 10. Phil. 1. 29. Gal. 5. 22.</note> gift of God wrought in the hearts of the elect by the Spirit of God, whereby they come to ſee, know, and beleeve the truth of <note n="b" place="margin">Ioh. 17. 17. Heb. 4. 11, 12. Iohn 6. 63.</note> the Scriptures, &amp; not onely ſo, but the excellencie of them above all other wri<g ref="char:EOLhyphen"/>tings and things in the world, as they hold forth the glory of God in his attributes, the excellency of Chriſt in his nature and offices, and the power of the fulneſſe of the Spirit in its workings and operations; and thereupon are inabled to caſt the weight of their ſoules upon this truth thus beleeved.</p>
+            </div>
+            <div n="23" type="article">
+               <head>XXIII.</head>
+               <p>Thoſe that have this pretious faith wrought in them <note place="margin">Matth. 7. 24, 25. Iohn 13. 1. 1 Pet. 1. 4, 5. 6. Eſa. 49. 13, 14, 15, 16.</note> by the Spirit, can never finally nor totally fall away; and though many ſtormes and floods do ariſe and beat againſt them, yet they ſhall never be able to take them off that foundation and rock which by faith they are faſtened up<g ref="char:EOLhyphen"/>on, but ſhall be kept by the power of God to ſalvation,
+<pb facs="tcp:154805:8"/> where they ſhall enjoy their purchaſed poſſeſſion, they being formerly engraven upon the palms of Gods hands.</p>
+            </div>
+            <div n="24" type="article">
+               <head>XXIV.</head>
+               <p>That faith is ordinarily <note n="a" place="margin">Rom. 10, 17. 1 Cor. 1. 21.</note> begot by the preaching of the Goſpel, or word of Chriſt, without reſpect to <note n="b" place="margin">Rom. 9. 16.</note> any power or capacitie in the creature, but it is wholly <note n="c" place="margin">Rom. 2. 1, 2. Ezek. 16. 6. Rom. 3. 12.</note> paſ<g ref="char:EOLhyphen"/>ſive, being dead in ſinnes and treſpaſſes, doth beleeve, and is converted by no leſſe power, <note n="d" place="margin">Rom. 1. 16. Eph. 1. 19. Col. 2. 12.</note> then that which raiſed Chriſt from the dead.</p>
+            </div>
+            <div n="25" type="article">
+               <head>XXV.</head>
+               <p>That the tenders of the Goſpel to the converſion of ſinners, <note n="a" place="margin">Ioh. 3. 14, 15 &amp; 1. 12. Eſa. 55. 1. Ioh. 7. 37.</note> is abſolutely free, no way requiring, as abſolute<g ref="char:EOLhyphen"/>ly neceſſary, any qualifications, preparations, terrors of the Law, or preceding Miniſtery of the Law, but onely and alone the naked ſoule, as a <note n="b" place="margin">1 Tim. 1. 15. Rom. 4. 5. &amp; 5. 8.</note> ſinner and ungodly to re<g ref="char:EOLhyphen"/>ceive Chriſt, as crucified, dead, and buried, and riſen a<g ref="char:EOLhyphen"/>gaine, being made <note n="c" place="margin">Act. 5. 30, 31 &amp; 2. 36. 1 Cor. 1. 22, 23, 24.</note> a Prince and a Saviour for ſuch ſin<g ref="char:EOLhyphen"/>ners.</p>
+            </div>
+            <div n="26" type="article">
+               <head>XXVI.</head>
+               <p>That the ſame power that converts to faith in Chriſt, the ſame power carries on the <note n="a" place="margin">1 Pet. 1. 5. 2 Cor. 12. 9.</note> ſoule ſtill through all du<g ref="char:EOLhyphen"/>ties, temptations, conflicts, ſufferings, and continually what ever a Chriſtian is, he is by <note n="b" place="margin">1 Cor. 15. 10</note> grace, and by a con<g ref="char:EOLhyphen"/>ſtant renewed <note n="c" place="margin">Phil. 2. 12, 13 Joh. 15. 5. Gal. 2. 19, 20.</note> operation from God, without which he cannot performe any dutie to God, or undergoe any temptations from Satan, the world, or men.</p>
+            </div>
+            <div n="27" type="article">
+               <head>XXVII.</head>
+               <p>That God the Father, and Sonne, and Spirit, is one
+<pb facs="tcp:154805:8"/> with <note n="a" place="margin">1 Theſ. 1. 1. Joh. 14. 10. 20. &amp; 17. 21.</note> all beleevers, in their <note n="b" place="margin">Col. 2. 9, 10. &amp; 1. 19. Joh. 1. 17.</note> fulneſſe, in <note n="c" place="margin">Joh. 20. 17. Heb. 2. 11.</note> relations, <note n="d" place="margin">Col. 1. 18. Eph. 5. 30.</note> as head and members, <note n="e" place="margin">Eph. 2. 22. 1 Cor. 3. 16, 17</note> as houſe and inhabitants, as <note n="f" place="margin">Eſa. 16. 5. 2 Cor. 11. 3.</note> huſ<g ref="char:EOLhyphen"/>band and wife, one with him, as <note n="g" place="margin">Gal 3. 26.</note> light and love, and one with him in his inheritance, and in all his <note n="h" place="margin">Joh. 17. 24.</note> glory; and that all beleevers by vertue of this union and oneneſſe with God, are the adopted ſonnes of God, and heires with Chriſt, co-heires and joynt heires with him of the inheritance of all the promiſes of this life, and that which is to come.</p>
+            </div>
+            <div n="28" type="article">
+               <head>XXVIII.</head>
+               <p>That thoſe which have union with Chriſt, are juſtified from all their ſinnes, paſt, <note n="a" place="margin">1 Joh. 1. 7. Heb. 10. 14. &amp; 9. 26. 2 Cor. 5. 19. Rom. 3. 23.</note> preſent, and to come, by the bloud of Chriſt; which juſtification wee conceive to be a gracious and free <note n="b" place="margin">Acts 13. 38, 39. Rom. 5. 1. &amp; 3. 25. 30.</note> acquittance of a guiltie, ſinfull crea<g ref="char:EOLhyphen"/>ture, from all ſin by God, through the ſatisfaction that Chriſt hath made by his death; and this applyed in the manifeſtation of it through faith.</p>
+            </div>
+            <div n="29" type="article">
+               <head>XXIX.</head>
+               <p>That all beleevers are a holy and <note n="a" place="margin">1 Cor. 1. 1. 1 Pet. 2. 9.</note> ſanctified people, and that ſanctification is a ſpirituall grace of the <note n="b" place="margin">Eph. 1. 4.</note> new Covenant, and effect of the <note n="c" place="margin">1 Joh 4. 16.</note> love of God, manifeſted to the ſoule, whereby the beleever is in <note n="d" place="margin">Eph. 4. 24.</note> truth and rea<g ref="char:EOLhyphen"/>litie ſeparated, both in ſoule and body, from all ſinne and dead workes, through the <note n="e" place="margin">Phil. 3. 15.</note> bloud of the everlaſting Co<g ref="char:EOLhyphen"/>venant, whereby he alſo preſſeth after a heavenly and Evangelicall perfection, in obedience to all the Com<g ref="char:EOLhyphen"/>mands, <note n="f" place="margin">Mat. 28. 20.</note> which Chriſt as head and King in this new Co<g ref="char:EOLhyphen"/>venant has preſcribed to him.</p>
+            </div>
+            <div n="30" type="article">
+               <head>XXX.</head>
+               <p>All beleevers through the knowledge of <note n="a" place="margin">2 Cor. 5. 19. Rom. 5. 9, 10.</note> that Juſti<g ref="char:EOLhyphen"/>fication
+<pb facs="tcp:154805:9"/> of life given by the Father, and brought forth by the bloud of Chriſt, have this as their great privi<g ref="char:EOLhyphen"/>ledge of that new <note n="b" place="margin">Eſa. 54. 10. &amp; 26. 12.</note> Covenant, peace with God, and re<g ref="char:EOLhyphen"/>conciliation, whereby they that were afarre off, were brought nigh by <note n="c" place="margin">Eph. 2. 13, 14</note> that bloud, and have (as the Scripture ſpeaks) peace <note n="d" place="margin">Phil. 4. 7.</note> paſſing all underſtanding, yea, joy in God, through our Lord Jeſus Chriſt, by <note n="e" place="margin">Rom. 5. 10, 11.</note> whom wee have re<g ref="char:EOLhyphen"/>ceived the Atonement.</p>
+            </div>
+            <div n="31" type="article">
+               <head>XXXI.</head>
+               <p>That all beleevers in the time of this life, are in a con<g ref="char:EOLhyphen"/>tinuall warfare, combate, and oppoſition againſt ſinne, <note place="margin">Eph. 6. 10, 11, 12, 13. 2 Cor. 10. 3. Rev. 2. 9, 10</note> ſelfe, the world, and the Devill, and liable to all manner of afflictions, tribulations, and perſecutions, and ſo ſhall continue untill Chriſt comes in his Kingdome, being predeſtinated and appointed thereunto; and what<g ref="char:EOLhyphen"/>ſoever the Saints, any of them doe poſſeſſe or enjoy of God in this life, is onely by faith.</p>
+            </div>
+            <div n="32" type="article">
+               <head>XXXII.</head>
+               <p>That the onely ſtrength by which the Saints are ina<g ref="char:EOLhyphen"/>bled <note place="margin">Joh. 16. 33.</note> to incounter with all oppoſition, and to overcome all afflictions, temptations, perſecutions, and tryalls, is onely by Jeſus Chriſt, who is the Captain of their ſalva<g ref="char:EOLhyphen"/>tion, <note place="margin">Heb. 2. 9, 10.</note> being made perfect through ſufferings, who hath ingaged his ſtrength to aſſiſt them in all their afflictions, and to uphold them under all their temptations, and to <note place="margin">John 15. 5.</note> preſerve them by his power to his everlaſting Kingdome.</p>
+            </div>
+            <div n="33" type="article">
+               <head>XXXIII.</head>
+               <p>That Chriſt hath here on earth a ſpirituall Kingdome,
+<pb facs="tcp:154805:9"/> which is the Church, which he hath purchaſed and re<g ref="char:EOLhyphen"/>deemed to himſelfe, as a peculiar inheritance: which Church, as it is viſible to us, is a company of viſible <note n="a" place="margin">1 Cor. 1. 2. Eph. 1. 1.</note> Saints, <note n="b" place="margin">Rom. 1. 7. Act. 26. 18. 1 Theſ. 1. 9. 2 Cor. 6. 17. Rev. 18. 18.</note> called &amp; ſeparated from the world, by the word and <note n="c" place="margin">Acts 2. 37. with Acts 10. 37.</note> Spirit of God, to the viſible profeſſion of the faith of the Goſpel, being baptized into that faith, and joyned to the Lord, and each other, by mutuall agreement, in the practical injoyment of the <note n="d" place="margin">Rom. 10. 10. Act. 20. 21. Mat. 18. 19. 20. Act. 2. 42. 1 Pet. 2. 5.</note> Ordinances, commanded by Chriſt their head and King.</p>
+            </div>
+            <div n="34" type="article">
+               <head>XXXIV.</head>
+               <p>To this Church he hath <note n="a" place="margin">Mat. 28. 18, 19, 20. 2 Cor. 6. 18.</note> made his promiſes, and gi<g ref="char:EOLhyphen"/>ven the ſignes of his Covenant, preſence, love, bleſſing, and protection: here are the fountains and ſprings of his heavenly grace continually flowing forth; <note n="b" place="margin">Eſa. 8. 16. 1 Tim. 3. 15. &amp; 4. 16. &amp; 6. 3. 5. Acts 2. 41. 47. Song 4. 12. Gal. 6. 10. Eph. 2. 19.</note> thither ought all men to come, of all eſtates, that acknowledge him to be their Prophet, Prieſt, and King, to be inrolled amongſt his houſhold ſervants, to be under his heavenly conduct and government, to lead their lives in his walled ſheep<g ref="char:EOLhyphen"/>fold, and watered garden; to have communion here with the Saints, that they may be made to be partakers of their inheritance in the Kingdome of God.</p>
+            </div>
+            <div n="35" type="article">
+               <head>XXXV.</head>
+               <p>And all his ſervants are called thither, to preſent their <note place="margin">1 Cor. 12. 6, 7. 12. 18. Rom. 12. 4, 5, 6. 1 Pet. 4. 10. Eph. 4. 16. Col. 2. 5. 6. 19. 1 Cor. 12. 22. to the end.</note> bodies and ſoules, and to bring their gifts God hath gi<g ref="char:EOLhyphen"/>ven them; ſo being come, they are here by himſelfe be<g ref="char:EOLhyphen"/>ſtowed in their ſeverall order, peculiar place, due uſe, be<g ref="char:EOLhyphen"/>ing fitly compact and knit together, according to the ef<g ref="char:EOLhyphen"/>fectuall working of every part, to the edification of it ſelfe in love.</p>
+            </div>
+            <div n="36" type="article">
+               <pb facs="tcp:154805:10"/>
+               <head>XXXVI.</head>
+               <p>That being thus joyned, every Church has <note n="a" place="margin">Acts 1. 2. &amp; 6. 3. with 15. 22. 25 1 Cor. 16. 3.</note> power gi<g ref="char:EOLhyphen"/>ven them from Chriſt for their better well-being, to chooſe to themſelves meet perſons into the office of <note n="b" place="margin">Rom. 12. 7, 8 &amp; 16. 1. 1 Cor. 12 8. 28 1 Tim. 3. chap. Heb. 13. 7. 1 Pet. 5. 1, 2, 3.</note> Paſtors, Teachers, Elders, Deacons, being qualified ac<g ref="char:EOLhyphen"/>cording to the Word, as thoſe which Chriſt has appoin<g ref="char:EOLhyphen"/>ted in his Teſtament, for the feeding, governing, ſerving, and building up of his Church, and that none other have power to impoſe them, either theſe or any other.</p>
+            </div>
+            <div n="37" type="article">
+               <head>XXXVII.</head>
+               <p>That the Miniſters aforeſaid, lawfully called by the <note place="margin">Heb. 5. 4. Acts 4. 23. 1 Tim. 4. 14. Joh. 10. 3, 4. Acts 20. 28. Rom. 12. 7, 8 Heb. 13. 7. 17.</note> Church, where they are to adminiſter, ought to conti<g ref="char:EOLhyphen"/>nue in their calling, according to Gods Ordinance, and carefully to feed the flock of Chriſt committed to them, not for filthy lucre, but of a ready minde.</p>
+            </div>
+            <div n="38" type="article">
+               <head>XXXVIII.</head>
+               <p>That the due maintenance of the Officers aforeſaid, <note place="margin">1 Cor. 9. 7. 14. Gal. 6. 6. 1 Theſ. 5. 13. 1 Tim. 5. 17, 18. Phil. 4. 15, 16.</note> ſhould be the free and voluntary communication of the Church, that according to Chriſts Ordinance, they that preach the Goſpel, ſhould live on the Goſpel, and not by conſtraint to be compelled from the people by a forced Law.</p>
+            </div>
+            <div n="39" type="article">
+               <head>XXXIX.</head>
+               <p>That Baptiſme is an Ordinance of the new Teſtament, <note place="margin">Mat. 28. 18, 19 Mark. 16. 16.</note> given by Chriſt, to be diſpenſed onely upon perſons pro<g ref="char:EOLhyphen"/>feſſing
+<pb facs="tcp:154805:10"/> faith, or that are Diſciples, or taught, who upon <note place="margin">Acts 2. 37, 38. &amp; 8. 36, 37, 38 &amp; 18. 8.</note> a profeſſion of faith, ought to be baptized.</p>
+            </div>
+            <div n="40" type="article">
+               <head>XL.</head>
+               <p>The way and manner of the <note n="a" place="margin">Mat. 3. 16. Joh. 3. 23. Acts 8. 38.</note> diſpenſing of this Ordi<g ref="char:EOLhyphen"/>nance, <note place="margin">The word <hi>Baptizo,</hi> ſigni<g ref="char:EOLhyphen"/>fying to dip under water, yet ſo as with convenient garments both upon the ad<g ref="char:EOLhyphen"/>miniſtrator and ſubject, with all mo<g ref="char:EOLhyphen"/>deſtie.</note> the Scripture holds out to be dipping or plung<g ref="char:EOLhyphen"/>ing the whole body under water: it being a ſigne, muſt an<g ref="char:EOLhyphen"/>ſwer the thing ſignified, which are theſe: firſt, the <note n="b" place="margin">Rev. 1. 5. &amp; 7. 14. with Heb. 10. 22.</note> waſh<g ref="char:EOLhyphen"/>ing the whole ſoule in the bloud of Chriſt: Secondly, that intereſt the Saints have in the <note n="c" place="margin">Rom. 6. 3, 4, 5</note> death, buriall, and re<g ref="char:EOLhyphen"/>ſurrection; thirdly, together with a <note n="d" place="margin">1 Cor. 15. 28, 29.</note> confirmation of our faith, that as certainly as the body is buried under water, and riſeth againe, ſo certainly ſhall the bodies of the Saints be raiſed by the power of Chriſt, in the day of the reſurrection, to reigne with Chriſt.</p>
+            </div>
+            <div n="41" type="article">
+               <head>XLI.</head>
+               <p>The perſons deſigned by Chriſt, to diſpenſe this Or<g ref="char:EOLhyphen"/>dinance, the <note n="a" place="margin">Eſa. 8. 16. Mat. 28. 16, 17 18, 19. John 4. 1, 2. Acts 20. 7. Mat. 26. 26.</note> Scriptures hold forth to be a preaching Diſciple, it being no where tyed to a particular Church, Officer, or perſon extraordinarily ſent, the Commiſſion injoyning the adminiſtration, being given to them under no other conſideration, but as conſidered Diſciples.</p>
+            </div>
+            <div n="42" type="article">
+               <head>XLII.</head>
+               <p>Chriſt has likewiſe given power to his whole Church <note place="margin">Acts 2. 47. Rom. 16. 2. Math. 18. 17. 1 Cor. 5. 4. 2 Cor. 2. 6, 7, 8.</note> to receive in and caſt out, by way of Excommunication, any member; and this power is given to every particular Congregation, and not one particular perſon, either member or Officer, but the whole.</p>
+            </div>
+            <div n="43" type="article">
+               <pb facs="tcp:154805:11"/>
+               <head>XLIII.</head>
+               <p>And every particular member of each Church, how <note place="margin">Mat. 18. 16, 17, 18. Act. 11. 2, 3. 1 Tim. 5. 19, 20, 21.</note> excellent, great, or learned ſoever, ought to be ſubject to this cenſure and judgement of Chriſt; and the Church ought with great care and tenderneſſe, with due advice to proceed againſt her members.</p>
+            </div>
+            <div n="44" type="article">
+               <head>XLIV.</head>
+               <p>And as Chriſt for the <note n="a" place="margin">Acts 20. 27, 28. Heb. 13. 17. 24 Mat. 24. 25. 1 Theſ. 5. 14.</note> keeping of this Church in holy and orderly Communion, placeth ſome ſpeciall men over the Church, who by their office are to governe, o<g ref="char:EOLhyphen"/>verſee, viſit, watch; ſo likewiſe for the better keeping thereof in all places, by the members, he hath given <note n="b" place="margin">Mark. 13. 34. 37. Gal. 6. 1. 1 Theſ. 5. 11. Jude ver. 3. 20 Heb. 10. 34, 35 &amp; 12. 15.</note> au<g ref="char:EOLhyphen"/>thoritie, and laid dutie upon all, to watch over one ano<g ref="char:EOLhyphen"/>ther.</p>
+            </div>
+            <div n="45" type="article">
+               <head>XLV.</head>
+               <p>That alſo ſuch to whom God hath given gifts, being <note place="margin">1 Cor. 14. cha. Rom 12. 6. 1 Pet. 4. 10, 11 1 Cor. 12. 7. 1 Theſ. 5. 17, 18, 19.</note> tryed in the Church, may and ought by the appointment of the Congregation, to propheſie, according to the pro<g ref="char:EOLhyphen"/>portion of faith, and ſo to teach publickly the Word of God, for the edification, exhortation, and comfort of the Church.</p>
+            </div>
+            <div n="46" type="article">
+               <head>XLVI.</head>
+               <p>Thus being rightly gathered, eſtabliſhed, and ſtill pro<g ref="char:EOLhyphen"/>ceeding <note place="margin">Rev. 2. &amp; 3. Chapters. Acts 15. 12. 1 Cor. 1. 10. Epheſ. 2. 16. &amp; 3. 15. 16. Heb. 10. 25. Jude verſ. 13. Matth. 18. 17. 1 Cor. 5. 4, 5.</note> in Chriſtian communion, and obedience of the Goſpel of Chriſt, none ought to ſeparate for faults and corruptions, which may, and as long as the Church con<g ref="char:EOLhyphen"/>ſiſts of men ſubject to failings, will fall out and ariſe a<g ref="char:EOLhyphen"/>mongſt them, even in true conſtituted Churches, untill they have in due order ſought redreſſe thereof.</p>
+            </div>
+            <div n="47" type="article">
+               <pb facs="tcp:154805:11"/>
+               <head>XLVII.</head>
+               <p>And although the particular Congregations be diſtinct and ſeverall Bodies, every one as a compact and knit Ci<g ref="char:EOLhyphen"/>tie <note place="margin">1 Cor. 4. 17. &amp; 14. 33, 36. &amp; 16. 1. Matth. 28. 20. 1 Tim. 3. 15. &amp; 6. 13, 14. Rev. 22. 18. 19. Col. 2. 6, 19. &amp; 4. 16.</note> in it ſelfe; yet are they all to walk by one and the ſame Rule, and by all meanes convenient to have the counſell and help one of another in all needfull affaires of the Church, as members of one body in the common faith under Chriſt their onely head.</p>
+            </div>
+            <div n="48" type="article">
+               <head>XLVIII.</head>
+               <p>That a civill Magiſtracie is an ordinance of God ſet up <note place="margin">Rom. 13. 1, 2, 3, 4, 1 Pet. 2. 13. 14. 1 Tim. 2. 2.</note> by God for the puniſhment of evill doers, and for the praiſe of them that doe well; and that in all lawfull things commanded by them, ſubjection ought to be given by us in the Lord: and that we are to make ſupplication and prayer for Kings, and all that are in authority, that under them we may live a peaceable and quiet life in all godlines and honeſty.</p>
+            </div>
+            <div n="49" type="article">
+               <head>XLIX.</head>
+               <p>The ſupreme Magiſtracie of this Kingdome we beleeve to be the King and Parliament freely choſen by the King<g ref="char:EOLhyphen"/>dome, and that in all thoſe civill Lawes which have been acted by them, or for the preſent is or ſhall be ordained, we are bound to yeeld ſubjection and obedience unto in the Lord, as conceiving our ſelves bound to defend both the perſons of thoſe thus choſen, and all civill Lawes made by them, with our perſons, liberties, and eſtates, with all that is called ours, although we ſhould ſuffer never ſo much from them in not actively ſubmitting to ſome Ec<g ref="char:EOLhyphen"/>cleſiaſticall Lawes, which might be conceived by them to
+<pb facs="tcp:154805:12"/> be their duties to eſtabliſh, which we for the preſent could not ſee, nor our conſciences could ſubmit unto; yet are we bound to yeeld our perſons to their pleaſures.</p>
+            </div>
+            <div n="50" type="article">
+               <head>L.</head>
+               <p>And if God ſhould provide ſuch a mercie for us, as to incline the Magiſtrates hearts ſo for to tender our con<g ref="char:EOLhyphen"/>ſciences, <note place="margin">1 Tim. 2. 2, 3, 4. Pſal. 126. 1. Acts 9. 31.</note> as that we might bee protected by them from wrong, injury, oppreſſion and moleſtation, which long we formerly have groaned under by the tyranny and oppreſ<g ref="char:EOLhyphen"/>ſion of the Prelaticall Hierarchy, which God through mercy hath made this preſent King and Parliament won<g ref="char:EOLhyphen"/>derfull honourable, as an inſtrument in his hand, to throw downe; and we thereby have had ſome breathing time, we ſhall, we hope, look at it as a mercy beyond our expe<g ref="char:EOLhyphen"/>ctation, and conceive our ſelves further engaged for ever to bleſſe God for it.</p>
+            </div>
+            <div n="51" type="article">
+               <head>LI.</head>
+               <p>But if God with-hold the Magiſtrates allowance and furtherance herein; <note n="a" place="margin">Act 12. 40, 41. &amp; 4. 19, &amp; 5. 28. 29, 41. &amp; 20. 23. 1 Theſſ. 3. 3. Phil. 1. 27, 28, 29. Dan. 3. 16, 17. &amp; 6, 7, 10, 22, 23.</note> yet we muſt notwithſtanding pro<g ref="char:EOLhyphen"/>ceed together in Chriſtian communion, not daring to give place to ſuſpend our practiſe, but to walk in obedience to Chriſt in the profeſſion and holding forth this faith be<g ref="char:EOLhyphen"/>fore mentioned, even in the midſt of all trialls and affli<g ref="char:EOLhyphen"/>ctions, not accounting our goods, lands, wives, children, fathers, mothers, brethren, ſiſters, yea, and our own lives dear unto us, ſo we may finiſh our courſe with joy: re<g ref="char:EOLhyphen"/>membring alwayes we ought to <note n="b" place="margin">Matth. 28. 18, 19, 20. 1 Tim. 6. 13, 14, 15. Rom. 12. 1, 8. 2 Cor. 14, 37. 2, Tim. 4, 7, 8. Rev. 2. 10. Gal. 2. 4, 5.</note> obey God rather then men, and grounding upon the commandement, commiſſi<g ref="char:EOLhyphen"/>on and promiſe of our Lord and maſter Jeſus Chriſt, who
+<pb facs="tcp:154805:12"/> as he hath all power in heaven and earth, ſo alſo hath pro<g ref="char:EOLhyphen"/>miſed, if we keep his commandements which he hath gi<g ref="char:EOLhyphen"/>ven us, to be with us to the end of the world: and when we have finiſhed our courſe, and kept the faith, to give us the crowne of righteouſneſſe, which is laid up for all that love his appearing, and to whom we muſt give an account of all our actions, no man being able to diſcharge us of the ſame.</p>
+            </div>
+            <div n="52" type="article">
+               <head>LII.</head>
+               <p>And likewiſe unto all men is to be given whatſoever is <note place="margin">Rom. 13. 5, 6, 7. Matth. 22. 21. Titus 3. 1 Pet. 2. 13. Epheſ. 5. 21, 22. &amp; 6. 1, 9. 1 Pet. 5. 5.</note> their due; tributes, cuſtomes, and all ſuch lawfull duties, ought willingly to bee by us paid and performed, our lands, goods, and bodies, to ſubmit to the Magiſtrate in the Lord, and the Magiſtrate every way to bee acknow<g ref="char:EOLhyphen"/>ledged, reverenced, and obeyed, according to godlineſſe; not becauſe of wrath onely, but for conſcience ſake. And finally, all men ſo to be eſteemed and regarded, as is due and meet for their place, age, eſtate and condition.</p>
+            </div>
+            <div n="52" type="article">
+               <head>LII.</head>
+               <p>And thus wee deſire to give unto God that which is <note place="margin">Matth. 22. 21. Acts 24. 14, 15, 16. Iohn 5. 28. 2 Cor. 4. 17. 1 Tim. 6. 3, 4, 5. 1 Cor. 15. 58, 59.</note> Gods, and unto <hi>Ceſar</hi> that which is <hi>Ceſars,</hi> and unto all men that which belongeth unto them, endevouring our ſelves to have alwayes a cleare conſcience void of offence towards God, and towards man. And if any take this that we have ſaid, to be hereſie, then doe wee with the Apoſtle freely confeſſe, that after the way which they call hereſie, worſhip we the God of our Fathers, beleeving all things which are written in the Law and in the Prophets and A<g ref="char:EOLhyphen"/>poſtles, deſiring from our ſoules to diſclaime all hereſies
+<pb facs="tcp:154805:13"/> and opinions which are not after Chriſt, and to be ſted<g ref="char:EOLhyphen"/>faſt, unmoveable, alwayes abounding in the worke of the Lord, as knowing our labour ſhall not be in vain in the Lord.</p>
+               <epigraph>
+                  <q>
+                     <bibl>1 <hi>COR.</hi> 1. 24.</bibl>
+                     <p>Not that we have dominion over your faith, but are helpers of your joy: for by faith we ſtand.</p>
+                  </q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154805:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
